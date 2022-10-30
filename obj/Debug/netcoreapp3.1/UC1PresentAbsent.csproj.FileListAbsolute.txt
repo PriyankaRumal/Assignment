@@ -1,0 +1,14 @@
+C:\Users\Priyanka\Bridelab\UC1PresentAbsent\bin\Debug\netcoreapp3.1\UC1PresentAbsent.exe
+C:\Users\Priyanka\Bridelab\UC1PresentAbsent\bin\Debug\netcoreapp3.1\UC1PresentAbsent.deps.json
+C:\Users\Priyanka\Bridelab\UC1PresentAbsent\bin\Debug\netcoreapp3.1\UC1PresentAbsent.runtimeconfig.json
+C:\Users\Priyanka\Bridelab\UC1PresentAbsent\bin\Debug\netcoreapp3.1\UC1PresentAbsent.runtimeconfig.dev.json
+C:\Users\Priyanka\Bridelab\UC1PresentAbsent\bin\Debug\netcoreapp3.1\UC1PresentAbsent.dll
+C:\Users\Priyanka\Bridelab\UC1PresentAbsent\bin\Debug\netcoreapp3.1\UC1PresentAbsent.pdb
+C:\Users\Priyanka\Bridelab\UC1PresentAbsent\obj\Debug\netcoreapp3.1\UC1PresentAbsent.csproj.AssemblyReference.cache
+C:\Users\Priyanka\Bridelab\UC1PresentAbsent\obj\Debug\netcoreapp3.1\UC1PresentAbsent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka\Bridelab\UC1PresentAbsent\obj\Debug\netcoreapp3.1\UC1PresentAbsent.AssemblyInfoInputs.cache
+C:\Users\Priyanka\Bridelab\UC1PresentAbsent\obj\Debug\netcoreapp3.1\UC1PresentAbsent.AssemblyInfo.cs
+C:\Users\Priyanka\Bridelab\UC1PresentAbsent\obj\Debug\netcoreapp3.1\UC1PresentAbsent.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka\Bridelab\UC1PresentAbsent\obj\Debug\netcoreapp3.1\UC1PresentAbsent.dll
+C:\Users\Priyanka\Bridelab\UC1PresentAbsent\obj\Debug\netcoreapp3.1\UC1PresentAbsent.pdb
+C:\Users\Priyanka\Bridelab\UC1PresentAbsent\obj\Debug\netcoreapp3.1\UC1PresentAbsent.genruntimeconfig.cache
