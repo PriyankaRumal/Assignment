@@ -1,0 +1,14 @@
+C:\Users\Priyanka\Bridelab\UC6WagesTillCondi\bin\Debug\netcoreapp3.1\UC6WagesTillCondi.exe
+C:\Users\Priyanka\Bridelab\UC6WagesTillCondi\bin\Debug\netcoreapp3.1\UC6WagesTillCondi.deps.json
+C:\Users\Priyanka\Bridelab\UC6WagesTillCondi\bin\Debug\netcoreapp3.1\UC6WagesTillCondi.runtimeconfig.json
+C:\Users\Priyanka\Bridelab\UC6WagesTillCondi\bin\Debug\netcoreapp3.1\UC6WagesTillCondi.runtimeconfig.dev.json
+C:\Users\Priyanka\Bridelab\UC6WagesTillCondi\bin\Debug\netcoreapp3.1\UC6WagesTillCondi.dll
+C:\Users\Priyanka\Bridelab\UC6WagesTillCondi\bin\Debug\netcoreapp3.1\UC6WagesTillCondi.pdb
+C:\Users\Priyanka\Bridelab\UC6WagesTillCondi\obj\Debug\netcoreapp3.1\UC6WagesTillCondi.csproj.AssemblyReference.cache
+C:\Users\Priyanka\Bridelab\UC6WagesTillCondi\obj\Debug\netcoreapp3.1\UC6WagesTillCondi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka\Bridelab\UC6WagesTillCondi\obj\Debug\netcoreapp3.1\UC6WagesTillCondi.AssemblyInfoInputs.cache
+C:\Users\Priyanka\Bridelab\UC6WagesTillCondi\obj\Debug\netcoreapp3.1\UC6WagesTillCondi.AssemblyInfo.cs
+C:\Users\Priyanka\Bridelab\UC6WagesTillCondi\obj\Debug\netcoreapp3.1\UC6WagesTillCondi.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka\Bridelab\UC6WagesTillCondi\obj\Debug\netcoreapp3.1\UC6WagesTillCondi.dll
+C:\Users\Priyanka\Bridelab\UC6WagesTillCondi\obj\Debug\netcoreapp3.1\UC6WagesTillCondi.pdb
+C:\Users\Priyanka\Bridelab\UC6WagesTillCondi\obj\Debug\netcoreapp3.1\UC6WagesTillCondi.genruntimeconfig.cache
