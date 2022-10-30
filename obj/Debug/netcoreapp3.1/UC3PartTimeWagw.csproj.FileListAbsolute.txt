@@ -1,0 +1,14 @@
+C:\Users\Priyanka\Bridelab\UC3PartTimeWagw\bin\Debug\netcoreapp3.1\UC3PartTimeWagw.exe
+C:\Users\Priyanka\Bridelab\UC3PartTimeWagw\bin\Debug\netcoreapp3.1\UC3PartTimeWagw.deps.json
+C:\Users\Priyanka\Bridelab\UC3PartTimeWagw\bin\Debug\netcoreapp3.1\UC3PartTimeWagw.runtimeconfig.json
+C:\Users\Priyanka\Bridelab\UC3PartTimeWagw\bin\Debug\netcoreapp3.1\UC3PartTimeWagw.runtimeconfig.dev.json
+C:\Users\Priyanka\Bridelab\UC3PartTimeWagw\bin\Debug\netcoreapp3.1\UC3PartTimeWagw.dll
+C:\Users\Priyanka\Bridelab\UC3PartTimeWagw\bin\Debug\netcoreapp3.1\UC3PartTimeWagw.pdb
+C:\Users\Priyanka\Bridelab\UC3PartTimeWagw\obj\Debug\netcoreapp3.1\UC3PartTimeWagw.csproj.AssemblyReference.cache
+C:\Users\Priyanka\Bridelab\UC3PartTimeWagw\obj\Debug\netcoreapp3.1\UC3PartTimeWagw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka\Bridelab\UC3PartTimeWagw\obj\Debug\netcoreapp3.1\UC3PartTimeWagw.AssemblyInfoInputs.cache
+C:\Users\Priyanka\Bridelab\UC3PartTimeWagw\obj\Debug\netcoreapp3.1\UC3PartTimeWagw.AssemblyInfo.cs
+C:\Users\Priyanka\Bridelab\UC3PartTimeWagw\obj\Debug\netcoreapp3.1\UC3PartTimeWagw.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka\Bridelab\UC3PartTimeWagw\obj\Debug\netcoreapp3.1\UC3PartTimeWagw.dll
+C:\Users\Priyanka\Bridelab\UC3PartTimeWagw\obj\Debug\netcoreapp3.1\UC3PartTimeWagw.pdb
+C:\Users\Priyanka\Bridelab\UC3PartTimeWagw\obj\Debug\netcoreapp3.1\UC3PartTimeWagw.genruntimeconfig.cache
