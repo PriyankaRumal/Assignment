@@ -1,0 +1,14 @@
+C:\Users\Priyanka\Bridelab\US4empWageSwitchCase\bin\Debug\netcoreapp3.1\US4empWageSwitchCase.exe
+C:\Users\Priyanka\Bridelab\US4empWageSwitchCase\bin\Debug\netcoreapp3.1\US4empWageSwitchCase.deps.json
+C:\Users\Priyanka\Bridelab\US4empWageSwitchCase\bin\Debug\netcoreapp3.1\US4empWageSwitchCase.runtimeconfig.json
+C:\Users\Priyanka\Bridelab\US4empWageSwitchCase\bin\Debug\netcoreapp3.1\US4empWageSwitchCase.runtimeconfig.dev.json
+C:\Users\Priyanka\Bridelab\US4empWageSwitchCase\bin\Debug\netcoreapp3.1\US4empWageSwitchCase.dll
+C:\Users\Priyanka\Bridelab\US4empWageSwitchCase\bin\Debug\netcoreapp3.1\US4empWageSwitchCase.pdb
+C:\Users\Priyanka\Bridelab\US4empWageSwitchCase\obj\Debug\netcoreapp3.1\US4empWageSwitchCase.csproj.AssemblyReference.cache
+C:\Users\Priyanka\Bridelab\US4empWageSwitchCase\obj\Debug\netcoreapp3.1\US4empWageSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka\Bridelab\US4empWageSwitchCase\obj\Debug\netcoreapp3.1\US4empWageSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Priyanka\Bridelab\US4empWageSwitchCase\obj\Debug\netcoreapp3.1\US4empWageSwitchCase.AssemblyInfo.cs
+C:\Users\Priyanka\Bridelab\US4empWageSwitchCase\obj\Debug\netcoreapp3.1\US4empWageSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka\Bridelab\US4empWageSwitchCase\obj\Debug\netcoreapp3.1\US4empWageSwitchCase.dll
+C:\Users\Priyanka\Bridelab\US4empWageSwitchCase\obj\Debug\netcoreapp3.1\US4empWageSwitchCase.pdb
+C:\Users\Priyanka\Bridelab\US4empWageSwitchCase\obj\Debug\netcoreapp3.1\US4empWageSwitchCase.genruntimeconfig.cache
