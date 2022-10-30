@@ -1,0 +1,14 @@
+C:\Users\Priyanka\Bridelab\UC7ClassMethod\bin\Debug\netcoreapp3.1\UC7ClassMethod.exe
+C:\Users\Priyanka\Bridelab\UC7ClassMethod\bin\Debug\netcoreapp3.1\UC7ClassMethod.deps.json
+C:\Users\Priyanka\Bridelab\UC7ClassMethod\bin\Debug\netcoreapp3.1\UC7ClassMethod.runtimeconfig.json
+C:\Users\Priyanka\Bridelab\UC7ClassMethod\bin\Debug\netcoreapp3.1\UC7ClassMethod.runtimeconfig.dev.json
+C:\Users\Priyanka\Bridelab\UC7ClassMethod\bin\Debug\netcoreapp3.1\UC7ClassMethod.dll
+C:\Users\Priyanka\Bridelab\UC7ClassMethod\bin\Debug\netcoreapp3.1\UC7ClassMethod.pdb
+C:\Users\Priyanka\Bridelab\UC7ClassMethod\obj\Debug\netcoreapp3.1\UC7ClassMethod.csproj.AssemblyReference.cache
+C:\Users\Priyanka\Bridelab\UC7ClassMethod\obj\Debug\netcoreapp3.1\UC7ClassMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka\Bridelab\UC7ClassMethod\obj\Debug\netcoreapp3.1\UC7ClassMethod.AssemblyInfoInputs.cache
+C:\Users\Priyanka\Bridelab\UC7ClassMethod\obj\Debug\netcoreapp3.1\UC7ClassMethod.AssemblyInfo.cs
+C:\Users\Priyanka\Bridelab\UC7ClassMethod\obj\Debug\netcoreapp3.1\UC7ClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka\Bridelab\UC7ClassMethod\obj\Debug\netcoreapp3.1\UC7ClassMethod.dll
+C:\Users\Priyanka\Bridelab\UC7ClassMethod\obj\Debug\netcoreapp3.1\UC7ClassMethod.pdb
+C:\Users\Priyanka\Bridelab\UC7ClassMethod\obj\Debug\netcoreapp3.1\UC7ClassMethod.genruntimeconfig.cache
