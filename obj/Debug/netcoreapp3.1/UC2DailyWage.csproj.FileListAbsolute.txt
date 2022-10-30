@@ -1,0 +1,14 @@
+C:\Users\Priyanka\Bridelab\UC2DailyWage\bin\Debug\netcoreapp3.1\UC2DailyWage.exe
+C:\Users\Priyanka\Bridelab\UC2DailyWage\bin\Debug\netcoreapp3.1\UC2DailyWage.deps.json
+C:\Users\Priyanka\Bridelab\UC2DailyWage\bin\Debug\netcoreapp3.1\UC2DailyWage.runtimeconfig.json
+C:\Users\Priyanka\Bridelab\UC2DailyWage\bin\Debug\netcoreapp3.1\UC2DailyWage.runtimeconfig.dev.json
+C:\Users\Priyanka\Bridelab\UC2DailyWage\bin\Debug\netcoreapp3.1\UC2DailyWage.dll
+C:\Users\Priyanka\Bridelab\UC2DailyWage\bin\Debug\netcoreapp3.1\UC2DailyWage.pdb
+C:\Users\Priyanka\Bridelab\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.csproj.AssemblyReference.cache
+C:\Users\Priyanka\Bridelab\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priyanka\Bridelab\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.AssemblyInfoInputs.cache
+C:\Users\Priyanka\Bridelab\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.AssemblyInfo.cs
+C:\Users\Priyanka\Bridelab\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.csproj.CoreCompileInputs.cache
+C:\Users\Priyanka\Bridelab\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.dll
+C:\Users\Priyanka\Bridelab\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.pdb
+C:\Users\Priyanka\Bridelab\UC2DailyWage\obj\Debug\netcoreapp3.1\UC2DailyWage.genruntimeconfig.cache
